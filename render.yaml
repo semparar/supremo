@@ -1,0 +1,4 @@
+buildCommand: |
+  cd semparar && npm install 
+  cd gerador-pix && npm install 
+startCommand: cd semparar && npm start
